@@ -1,8 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to EG 1305 Object-Oriented Programming and Design
 
-You can use the [editor on GitHub](https://github.com/aktunc-STMU/EG1305_Spring18Test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We will be studying Java programming language, which is currently the [Link](https://www.tiobe.com/tiobe-index/)most popular programming language in the world.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The GitHub classroom will be used to host student assignments. GitHub is the most popular code management website. It allows users to create free accounts and public repositories. It is another benefit of this course to learn this tool as all developers have to know how to use a code management system. You will save your assignments to your GitHub repositories and share them with me in this course.
+
+There are many ways to save your projects in a GitHub repository. I will show the basic methods such as dragging and dropping (Links to an external site.)Links to an external site. the files to the GitHub repository or editing them during the class sessions, but this page  (Links to an external site.)Links to an external site.has all the information you need.
+
+Things to do:
+
+1. Create a GitHub account.
+
+2. Create a repository in your GitHub account. (EG 1305)
+
+3. Commit and push your code to your repository. You can use the HelloWorld challenge.
+
+4. Share the repository with me (Aktunc-stmu) by adding me as a collaborator.
+
+https://help.github.com/articles/inviting-collaborators-to-a-personal-repository/ (Links to an external site.)Links to an external site.
 
 ### Markdown
 

@@ -1,6 +1,6 @@
 ## Welcome to EG 1305 Object-Oriented Programming and Design
 
-We will be studying Java programming language, which is currently the [Link](https://www.tiobe.com/tiobe-index/)most popular programming language in the world.
+We will be studying Java programming language, which is currently the [most popular programming language](https://www.tiobe.com/tiobe-index/) in the world.
 
 The GitHub classroom will be used to host student assignments. GitHub is the most popular code management website. It allows users to create free accounts and public repositories. It is another benefit of this course to learn this tool as all developers have to know how to use a code management system. You will save your assignments to your GitHub repositories and share them with me in this course.
 
